@@ -1,3 +1,5 @@
+#I AM STILL ALIVE #AINDA ESTOU AQUI E SEMPRE APRENDENDO
+
 Olá, eu sou Leonardo Cassiano 👋
 Sou um profissional com mais de 10 anos de experiência em áreas técnicas, incluindo suporte técnico, manutenção e automação de processos. Atualmente, estou focado em desenvolvimento de software, com ênfase em Google Apps Script, Python e automação.
 
@@ -55,6 +57,15 @@ Licenciatura em Matemática (Cursando) - UFSCAR - Conclusão prevista: 2028.1
 📫 Contato
 LinkedIn: [link-para-o-seu-linkedin]
 E-mail: [seu-email]
+GitHub: [link-para-o-seu-github]
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutirmos oportunidades de colaboração, principalmente em projetos que envolvam automação, Google Apps Script, Python, IA, mercado financeiro e Web3!
+
+Projetos em Destaque
+Google Sheets Task Manager: Um script para Google Sheets que permite gerenciar tarefas com uma interface personalizada.
+Nome de outro projeto: Breve descrição do outro projeto.
+Mais um projeto: Breve descrição do mais um projeto.
+Um projeto antigo: Breve descrição do projeto antigo.
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 GitHub: [link-para-o-seu-github]
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutirmos oportunidades de colaboração, principalmente em projetos que envolvam automação, Google Apps Script, Python, IA, mercado financeiro e Web3!
 
