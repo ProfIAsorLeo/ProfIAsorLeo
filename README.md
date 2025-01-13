@@ -67,9 +67,9 @@ Aqui estão alguns dos meus projetos que demonstram minhas habilidades e interes
 
 ## 📫 Contato
 
-*   **LinkedIn:** [link-para-o-seu-linkedin]
-*   **E-mail:** [seu-email]
-*   **GitHub:** [link-para-o-seu-github]
+*   **LinkedIn:** [https://www.linkedin.com/in/leonardo-cassiano-silva-98891936/]
+*   **E-mail:** [le.novaera@gmail.com]
+*   **GitHub:** [https://github.com/ProfIAsorLeo/ProfIAsorLeo/edit/main/README.md]
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutirmos oportunidades de colaboração, principalmente em projetos que envolvam **automação, Google Apps Script, Python, IA, mercado financeiro e Web3!**
 
@@ -82,4 +82,4 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato para di
 - [**Um projeto antigo**](link-para-o-repositorio-do-projeto-antigo): Breve descrição do projeto antigo.
 
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+## Sinta-se à vontade para explorar meus repositórios e entrar em contato!
